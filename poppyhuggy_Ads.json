@@ -1,1 +1,37 @@
-.
+{
+	"myAds": {
+
+		"AdsController": {
+			
+			"NetworkAds": "huawei",
+						
+			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
+			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob4": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob5": "ca-app-pub-3940256099942544/1033173712",
+		
+			"BannerFacebook1": "203828667610254_398033171523135",
+			"BannerFacebook2": "203828667610254_398033171523135",
+			"InterstitialFacebook1": "203828667610254_398033618189757",
+			"InterstitialFacebook2": "203828667610254_398033618189757",
+			"InterstitialFacebook3": "203828667610254_398033618189757",
+			"InterstitialFacebook4": "203828667610254_398033618189757",
+			"InterstitialFacebook5": "203828667610254_398033618189757",
+			
+			"InterstitialHuawei": "teste9ih9j0rc3",
+			"BannerHuawei": "testw6vs28auh3",
+			
+			"StartappAds": "211725011",
+
+			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
+			"LinkCpa" : "https://unlock3r.net/0cfcb69"
+			
+			
+		}
+
+	}
+}
+
