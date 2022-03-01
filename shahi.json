@@ -1,0 +1,29 @@
+{
+	"MyAds": {
+
+		"AdsController": {
+			
+			"NetworkAds": "appodeals",
+
+			"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+			"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+			"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+			"BannerFacebook": "413468403382050_486882466040643",
+			"InterstitialFacebook": "413468403382050_486881992707357",
+			"NativeFacebook": "IMG_16_9_APP_INSTALL#540355099982459_694708854547082",
+			
+			"AppkeyAppodeals": "2b8d67e2b854179e3e1ded5bb6b48953a2884309069c1191",
+			
+			"Cpa": false,
+			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
+			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
+			
+			"watchNow": true,
+			"Rating": true
+			
+		}
+
+	}
+
+}
