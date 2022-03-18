@@ -3,7 +3,7 @@
 
 		"AdsController": {
 
-			"NetworkAds": "unity",
+			"NetworkAds": "app",
 
 			"BannerAdmob": "ca-app-pub-8082149907872048/3898325980",
 			"InterstitialAdmob": "ca-app-pub-8082149907872048/8781442418",
@@ -31,7 +31,7 @@
 
 		"AdsController": {
 
-			"NetworkAds": "startapp",
+			"NetworkAds": "huawei",
 
 			"BannerAdmob": "ca-app-pub-8082149907872048/3898325980",
 			"InterstitialAdmob": "ca-app-pub-8082149907872048/8781442418",
